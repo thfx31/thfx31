@@ -1,4 +1,4 @@
-## Hi 'm Thomas ! 👋
+## Hi I'm Thomas ! 👋
 
 **📍 Based in Toulouse, France** **🚀 Open to New Opportunities** [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https:///www.linkedin.com/in/thomas-fauroux/)
 
