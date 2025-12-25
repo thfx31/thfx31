@@ -17,10 +17,10 @@ I am a technology and security enthusiast dedicated to building robust, scalable
 
 #### **DevOps & Linux System Administrator** | Airbus Defence & Space (via SII)
 *March 2023 — Present*
-- **Linux Administration:** Advanced management of **RedHat** and **Ubuntu** server and workstation fleets.
-- **Automation:** Orchestrating infrastructure and configuration management using **Ansible**.
-- **CI/CD:** Designing and maintaining robust delivery pipelines to streamline deployments.
-- **Security:** Implementing system **hardening** and security best practices to ensure infrastructure integrity (CIS Benchmark).
+- **Linux Administration:** Advanced management of **RedHat** and **Ubuntu** server and workstation fleets
+- **Automation:** Orchestrating infrastructure and configuration management using **Ansible**
+- **CI/CD:** Designing and maintaining robust delivery pipelines to streamline deployments
+- **Security:** Implementing system **hardening** and security best practices to ensure infrastructure integrity (CIS Benchmark)
 
 #### **System & Network Administrator** | PSIADE
 *March 2014 — March 2023*
@@ -47,7 +47,7 @@ I am a technology and security enthusiast dedicated to building robust, scalable
 #### 🖥️ Virtualization & Hypervisors
 ![VMware](https://img.shields.io/badge/VMware-%23607078.svg?style=for-the-badge&logo=vmware&logoColor=white) ![Proxmox](https://img.shields.io/badge/Proxmox-%23E57000.svg?style=for-the-badge&logo=proxmox&logoColor=white)
 
-#### ⚙️ Infrastructure & Configuration (IaC)
+#### ⚙️ Infrastructure & Configuration
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 #### 🏗️ Containers & Orchestration
@@ -61,13 +61,6 @@ I am a technology and security enthusiast dedicated to building robust, scalable
 
 #### 🛡️ Networking & Security
 ![pfSense](https://img.shields.io/badge/pfSense-000000?style=for-the-badge&logo=pfsense&logoColor=white) ![Wazuh](https://img.shields.io/badge/Wazuh-00a9e0?style=for-the-badge&logo=wazuh&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23040307.svg?style=for-the-badge&logo=cisco&logoColor=white) ![Veeam](https://img.shields.io/badge/Veeam-00B336?style=for-the-badge&logo=veeam&logoColor=white)
-
----
-
-### 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thfx31&show_icons=true&theme=tokyonight" alt="Stats" />
-</p>
 
 
 <!--
