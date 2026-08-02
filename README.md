@@ -33,9 +33,9 @@ I am a technology and security enthusiast dedicated to building robust, scalable
 ---
 
 ## 📜 Certifications & Education
-- 🏅 **AWS Certified Cloud Practitioner** (Validated)
-- 🏅 **VMware Foundation** (Validated)
-- ⏳ **Certified Kubernetes Administrator (CKA)** (In Progress)
+- 🏅 **Certified Kubernetes Administrator (CKA)**
+- 🏅 **AWS Certified Cloud Practitioner**
+- 🏅 **VMware Foundation**
 
 ---
 
